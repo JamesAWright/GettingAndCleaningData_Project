@@ -11,14 +11,14 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 The file containing the data sets was downloaded and manipulated using the run_analysis.R script.
 The data sets were split into two main categories:
 
-	+ the training data set
-	+ the test data set
++ the training data set
++ the test data set
 	
 Each set is made up of 3 files containing:
 
-	+ the measured variables ('X_train.txt' and 'X_test.txt')
-	+ the activities carried out to obtain data ('y_train.txt' and 'y_test.txt')
-	+ the subjects that were involved in the experiment ('subject_train.txt' and subject_test.txt')
++ the measured variables ('X_train.txt' and 'X_test.txt')
++ the activities carried out to obtain data ('y_train.txt' and 'y_test.txt')
++ the subjects that were involved in the experiment ('subject_train.txt' and subject_test.txt')
 
 Additionally, there is a file containing the names of the variables (features) measured ('features.txt').
 These features are described in more detail in 'features_info.txt'.
